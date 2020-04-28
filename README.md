@@ -1,4 +1,4 @@
-# bank
+# Payment App
 
 A new Flutter project.
 
